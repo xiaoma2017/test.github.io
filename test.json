@@ -1,0 +1,25 @@
+{
+  "name": "DEFI",
+  "logoURI": "https://xiaoma2017.github.io/test.github.io/daokedaojiang.jpg",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2024-08-12T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 11155111,
+      "address": "0x810F74c594Bc2B2cE5104043Edc4A7961dd7f73a",
+      "name": "MCJ",
+      "symbol": "DEFI",
+      "decimals": 18,
+      "logoURI": "https://xiaoma2017.github.io/test.github.io/daokedaojiang.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
