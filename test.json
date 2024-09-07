@@ -15,6 +15,13 @@
       "symbol": "DKDJ",
       "decimals": 18,
       "logoURI": "https://xiaoma2017.github.io/test.github.io/daokedaojiang.jpg"
+      },{
+      "chainId": 11155111,
+      "address": "0xE3eb259C28456EF06Bca43cB8B6E705698BFfB31",
+      "name": "DDDD",
+      "symbol": "DDDD",
+      "decimals": 18,
+      "logoURI": "https://xiaoma2017.github.io/test.github.io/daokedaojiang.jpg"
       }
     ],
     "version": {
